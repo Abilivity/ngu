@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDiem1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMonHoc1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMonHoc2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmREADME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemGVVaoLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemHSVaoLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyHoSoHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyLopHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

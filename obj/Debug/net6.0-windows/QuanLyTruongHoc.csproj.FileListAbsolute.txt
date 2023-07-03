@@ -1,0 +1,132 @@
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.exe
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.deps.json
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.runtimeconfig.json
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Login.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.GenerateResource.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfoInputs.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfo.cs
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\refint\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.genruntimeconfig.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\ref\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CopyComplete
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Home.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Properties.Resources.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyHoSoHocSinh.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmHocSinh.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmGiaoVien.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDSGV.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyMonHoc.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.ResolveComReference.cache
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyDiem.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyLopHoc.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemHSVaoLop.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemGVVaoLop.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc1.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc2.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem1.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemLop.resources
+C:\Users\Hi\OneDrive\Documents\SQL\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmREADME.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.exe
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.deps.json
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.runtimeconfig.json
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.AssemblyReference.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.ResolveComReference.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem1.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmGiaoVien.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmHocSinh.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc1.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc2.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmREADME.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemGVVaoLop.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemHSVaoLop.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemLop.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Home.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Login.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Properties.Resources.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyDiem.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDSGV.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyHoSoHocSinh.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyLopHoc.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyMonHoc.resources
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.GenerateResource.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfoInputs.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfo.cs
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CoreCompileInputs.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CopyComplete
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\refint\QuanLyTruongHoc.dll
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.genruntimeconfig.cache
+C:\Users\Hi\OneDrive\Documents\Visual Studio 2022\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\ref\QuanLyTruongHoc.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.exe
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.deps.json
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.runtimeconfig.json
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDiem1.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmGiaoVien.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmHocSinh.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc1.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmMonHoc2.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmREADME.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemGVVaoLop.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemHSVaoLop.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmThemLop.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Home.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Login.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.Properties.Resources.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyDiem.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.frmDSGV.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyHoSoHocSinh.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyLopHoc.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.QuanLyMonHoc.resources
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.AssemblyInfo.cs
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.csproj.CopyComplete
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\refint\QuanLyTruongHoc.dll
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.pdb
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\QuanLyTruongHoc.genruntimeconfig.cache
+C:\Users\admin\Downloads\BTLCODE\BTLCODE\QuanLyTruongHocUpdate\QuanLyTruongHocUpdate\QuanLyTruongHoc\obj\Debug\net6.0-windows\ref\QuanLyTruongHoc.dll
